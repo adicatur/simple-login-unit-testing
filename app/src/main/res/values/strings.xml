@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JogjaEnglish</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="error_username">please show valid username</string>
+    <string name="error_password">please fill password correctly</string>
+    <string name="error_login">please make sure your username and passwod</string>
+</resources>
